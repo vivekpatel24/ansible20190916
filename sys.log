@@ -1,0 +1,107 @@
+Sep 17 06:26:38 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 17 06:33:37 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 06:40:18 ansible-116-bchd systemd[1]: Starting Daily apt upgrade and clean activities...
+Sep 17 06:40:26 ansible-116-bchd dbus-daemon[1343]: [session uid=114 pid=1343] Reloaded configuration
+Sep 17 06:40:27 ansible-116-bchd dbus-daemon[1343]: message repeated 7 times: [ [session uid=114 pid=1343] Reloaded configuration]
+Sep 17 06:40:32 ansible-116-bchd systemd[1]: Started Daily apt upgrade and clean activities.
+Sep 17 07:17:01 ansible-116-bchd CRON[18605]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 08:17:01 ansible-116-bchd CRON[18620]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 08:44:14 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 17 08:44:19 ansible-116-bchd gotty[1003]: 2019/09/17 08:44:19 10.0.0.33:36304 304 GET /
+Sep 17 08:44:19 ansible-116-bchd gotty[1003]: 2019/09/17 08:44:19 New client connected: 10.0.0.33:36306
+Sep 17 08:44:19 ansible-116-bchd gotty[1003]: 2019/09/17 08:44:19 Command is running for client 10.0.0.33:36306 with PID 18627 (args="new -A -s gotty"), connections: 1
+Sep 17 08:44:19 ansible-116-bchd gotty[1003]: 2019/09/17 08:44:19 10.0.0.33:36306 101 GET /ws
+Sep 17 08:52:17 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 09:11:54 ansible-116-bchd systemd-resolved[676]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 09:16:54 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 17 09:17:01 ansible-116-bchd CRON[19186]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 10:17:02 ansible-116-bchd CRON[20286]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 10:38:12 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.91.157
+Sep 17 11:17:01 ansible-116-bchd CRON[22472]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 11:45:05 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 12:17:01 ansible-116-bchd CRON[22966]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 12:55:48 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.91.157
+Sep 17 13:17:01 ansible-116-bchd CRON[22984]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 13:22:18 ansible-116-bchd systemd[1]: Starting Message of the Day...
+Sep 17 13:22:19 ansible-116-bchd 50-motd-news[22987]:  * Congrats to the Kubernetes community on 1.16 beta 1! Now available
+Sep 17 13:22:19 ansible-116-bchd 50-motd-news[22987]:    in MicroK8s for evaluation and testing, with upgrades to RC and GA
+Sep 17 13:22:19 ansible-116-bchd 50-motd-news[22987]:      snap info microk8s
+Sep 17 13:22:19 ansible-116-bchd systemd[1]: Started Message of the Day.
+Sep 17 14:02:53 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 14:09:24 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 17 14:12:14 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 17 14:17:01 ansible-116-bchd CRON[23304]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 14:38:45 ansible-116-bchd systemd-resolved[676]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 15:17:01 ansible-116-bchd CRON[25143]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 15:28:28 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 15:37:41 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 17 16:17:01 ansible-116-bchd CRON[25183]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 16:27:05 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 10.0.0.33:37094 200 GET /
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 10.0.0.33:37098 200 GET /auth_token.js
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 10.0.0.33:37100 200 GET /js/gotty.js
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 10.0.0.33:37096 200 GET /js/hterm.js
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 10.0.0.33:37102 200 GET /favicon.png
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 New client connected: 10.0.0.33:37104
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 Command is running for client 10.0.0.33:37104 with PID 25192 (args="new -A -s gotty"), connections: 2
+Sep 17 16:31:00 ansible-116-bchd gotty[1003]: 2019/09/17 16:31:00 10.0.0.33:37104 101 GET /ws
+Sep 17 16:32:04 ansible-116-bchd gotty[1003]: 2019/09/17 16:32:04 websocket: close 1001
+Sep 17 16:32:04 ansible-116-bchd gotty[1003]: 2019/09/17 16:32:04 Connection closed: 10.0.0.33:37104, connections: 1
+Sep 17 16:32:04 ansible-116-bchd gotty[1003]: 2019/09/17 16:32:04 websocket: close sent
+Sep 17 17:17:01 ansible-116-bchd CRON[25221]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 17:21:48 ansible-116-bchd gotty[1003]: 2019/09/17 17:21:48 websocket: close 1001
+Sep 17 17:21:48 ansible-116-bchd gotty[1003]: 2019/09/17 17:21:48 websocket: close sent
+Sep 17 17:21:48 ansible-116-bchd gotty[1003]: 2019/09/17 17:21:48 Connection closed: 10.0.0.33:36306, connections: 0
+Sep 17 17:27:42 ansible-116-bchd systemd[1]: Starting Daily apt download activities...
+Sep 17 17:28:12 ansible-116-bchd apt-helper[25227]: E: Sub-process nm-online returned an error code (1)
+Sep 17 17:28:13 ansible-116-bchd systemd[1]: Started Daily apt download activities.
+Sep 17 18:05:13 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.91.157
+Sep 17 18:17:01 ansible-116-bchd CRON[25321]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 18:26:47 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 17 18:38:24 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 19:17:01 ansible-116-bchd CRON[25337]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 19:21:12 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 17 19:31:05 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.91.157
+Sep 17 20:04:24 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 20:17:01 ansible-116-bchd CRON[25354]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 20:27:01 ansible-116-bchd CRON[25360]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Sep 17 20:47:32 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 17 21:01:57 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 17 21:07:42 ansible-116-bchd systemd[1]: Starting Cleanup of Temporary Directories...
+Sep 17 21:07:42 ansible-116-bchd systemd[1]: Started Cleanup of Temporary Directories.
+Sep 17 21:17:01 ansible-116-bchd CRON[25393]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 21:30:10 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 21:48:30 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.91.157
+Sep 17 22:17:01 ansible-116-bchd CRON[25410]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 17 22:30:08 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 17 23:01:58 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 17 23:13:18 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 17 23:17:01 ansible-116-bchd CRON[25427]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 00:17:01 ansible-116-bchd CRON[25442]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 00:56:33 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 18 01:17:01 ansible-116-bchd CRON[25458]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 01:49:35 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.91.157
+Sep 18 01:53:54 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 18 02:17:01 ansible-116-bchd CRON[25473]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 02:40:29 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 18 03:17:01 ansible-116-bchd CRON[25488]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 03:37:50 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 18 04:10:18 ansible-116-bchd systemd[1]: Starting Daily apt download activities...
+Sep 18 04:10:48 ansible-116-bchd apt-helper[25502]: E: Sub-process nm-online returned an error code (1)
+Sep 18 04:10:48 ansible-116-bchd systemd-resolved[676]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 04:10:48 ansible-116-bchd systemd-resolved[676]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 04:10:59 ansible-116-bchd systemd[1]: Started Daily apt download activities.
+Sep 18 04:17:01 ansible-116-bchd CRON[25953]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 04:24:39 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 18 04:31:47 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.198
+Sep 18 04:32:42 ansible-116-bchd systemd[1]: Starting Message of the Day...
+Sep 18 04:32:43 ansible-116-bchd 50-motd-news[25959]:  * Congrats to the Kubernetes community on 1.16 beta 1! Now available
+Sep 18 04:32:43 ansible-116-bchd 50-motd-news[25959]:    in MicroK8s for evaluation and testing, with upgrades to RC and GA
+Sep 18 04:32:43 ansible-116-bchd 50-motd-news[25959]:      snap info microk8s
+Sep 18 04:32:43 ansible-116-bchd systemd[1]: Started Message of the Day.
+Sep 18 05:17:01 ansible-116-bchd CRON[26024]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 05:20:45 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.89.199
+Sep 18 06:17:01 ansible-116-bchd CRON[26038]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 18 06:24:53 ansible-116-bchd chronyd[1042]: Received KoD RATE from 91.189.94.4
+Sep 18 06:25:01 ansible-116-bchd CRON[26044]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Sep 18 06:25:01 ansible-116-bchd cracklib: no dictionary update necessary.
