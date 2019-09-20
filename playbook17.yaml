@@ -1,0 +1,20 @@
+---
+- name: Push a script to our host and run it
+  hosts: futurama
+  gather_facts: yes
+
+  tasks:
+
+  - name: Run our python script
+    script: /home/student/py/holamundo.py
+    args:
+      executable: python3      
+    register: results
+
+  - name: What did hoamundo produce
+    debug:
+      var: results     
+
+
+
+
